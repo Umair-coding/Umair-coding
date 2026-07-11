@@ -39,7 +39,7 @@ I believe in **learning by building**, so every concept I learn is turned into a
 - 🧮 [Faulty Calculator](https://github.com/Umair-coding/Faulty-calculator-project)
 - 🏢 [Business Name Generator](https://github.com/Umair-coding/Business-Name-Generator-Js)
 - 🔢 [JavaScript Factorial Calculator](https://github.com/Umair-coding/javascript-factorial-calculator)
-- ▶️ [JavaScript Event Playground] (https://github.com/Umair-coding/js-event-playground)
+- ▶️ [JavaScript Event Playground](https://github.com/Umair-coding/js-event-playground)
 
 ---
 
