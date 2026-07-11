@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Umair Banner" width="100%">
+  <img src="assets/Profile image.png" alt="Umair Banner" width="100%">
 </p>
 
 # Hi, I'm Umair 👋
